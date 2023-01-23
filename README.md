@@ -30,4 +30,6 @@ Máquina Virtual
 S.O Ubuntu
 
 # Evidencia de montaje
-![Imagen de WhatsApp 2023-01-20 a las 08 51 00](https://user-images.githubusercontent.com/37962089/214131544-169b1129-d903-4c6c-8469-0d536d6c6c99.jpg)
+![image](https://user-images.githubusercontent.com/37962089/214131917-7d4c41cb-00e9-42c3-9451-886894bceb7f.png)
+![image](https://user-images.githubusercontent.com/37962089/214132292-91bbc51e-545d-4f85-a75f-af472fe72d95.png)
+
