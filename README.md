@@ -1,5 +1,6 @@
 # ProyectoCapstone-CasaDomotica
-Repositorio con contenido de Proyecto Capstone en implementación de casa domótica con aplicación en seguridad.
+
+Este proyecto es incluido como parte del requisito para obtener el certificado en el diplomado IoT de Samsung Innovation Campus. Este repositorio incluye contenido del Proyecto Capstone, el cuál se basa en la implementación de una casa domótica con aplicación en seguridad.
 
 # Introducción
 
